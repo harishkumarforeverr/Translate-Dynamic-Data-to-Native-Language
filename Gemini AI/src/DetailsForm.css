@@ -1,0 +1,19 @@
+.fieldContainer {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  /* column-gap: 3rem; */
+  row-gap: 1rem;
+}
+.TranslateComponent{
+  padding: 5rem;
+}
+.submitBtn{
+  display: flex;
+  justify-content: center;
+
+}
+.submitBtn button{
+  width: 10rem;
+  font-size: 1rem;
+  height: 2rem;
+}
